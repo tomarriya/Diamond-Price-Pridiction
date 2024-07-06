@@ -1,1 +1,1 @@
-# Diamond-Price-Pridiction
+# Diamond-Price-Prediction
